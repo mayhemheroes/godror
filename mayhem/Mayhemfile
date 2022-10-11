@@ -5,7 +5,7 @@ project: godror
 target: godror-dsn-fuzz
 
 # Base image to run the binary in.
-image: ghcr.io/lotdeef/aws-sdk-go:latest
+# image: ghcr.io/lotdeef/godror:latest
 
 # List of commands used to test the target
 cmds:
