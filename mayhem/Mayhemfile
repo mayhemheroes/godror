@@ -1,0 +1,4 @@
+project: godror
+target: godror-dsn-fuzz
+cmds:
+  - cmd: ./dsn-fuzz.libfuzzer
